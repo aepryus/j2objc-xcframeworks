@@ -7,6 +7,9 @@ Maven is necessary to build the j2objc libraries.
 brew install maven
 ```
 
+Make sure to pull the submodules:
+git submodule update --init --recursive
+
 Build the J2ObjC frameworks:
 ```shell
 ./build.sh
