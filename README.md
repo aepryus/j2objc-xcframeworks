@@ -8,7 +8,9 @@ brew install maven
 ```
 
 Make sure to pull the submodules:
+```shell
 git submodule update --init --recursive
+```
 
 Build the J2ObjC frameworks:
 ```shell
