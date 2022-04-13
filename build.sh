@@ -6,8 +6,7 @@
 #	macosx:         macOS x86_64 	
 #	macosx64:       macOS arm64
  
-cp Resources/common.mk ../j2objc/make
-cp Resrouces/j2objcc.sh ../j2objc/scripts
+cp Resources/common.mk j2objc/make
 export J2OBJC_ARCHS="iphone64 simulator simulator64 macosx macosx64"
-cd ../j2objc
+cd j2objc
 make -j8 frameworks
