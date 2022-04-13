@@ -17,6 +17,6 @@ Build the J2ObjC frameworks:
 ./build.sh
 ```
 
-Copy the frameworks into Mobo/Libraries/iOS:
+Copy the frameworks from `j2objc/dist/frameworks` into `Mobo/Libraries/iOS`:
 - JRE.xcframework
 - JavaxInject.xcframework
