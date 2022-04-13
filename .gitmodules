@@ -1,0 +1,3 @@
+[submodule "j2objc"]
+	path = j2objc
+	url = https://github.com/google/j2objc.git
