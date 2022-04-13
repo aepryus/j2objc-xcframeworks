@@ -1,10 +1,10 @@
 #!/bin/sh
 
-#	iphone64:	iOS arm64,
-#	simulator:	Simulator x86_64,
-#	simulator64:	Simulator arm64
-#	macosx:		macOS x86_64 	
-#	macosx64:	macOS arm64
+#	iphone64:       iOS arm64,
+#	simulator:      Simulator x86_64,
+#	simulator64:    Simulator arm64
+#	macosx:         macOS x86_64 	
+#	macosx64:       macOS arm64
  
 cp Resources/common.mk ../j2objc/make
 cp Resrouces/j2objcc.sh ../j2objc/scripts
