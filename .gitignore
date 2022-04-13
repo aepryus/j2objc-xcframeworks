@@ -3,4 +3,3 @@ UserInterfaceState.xcuserstate
 xcuserdata/
 .build/
 .swiftpm/
-*.xcframework
