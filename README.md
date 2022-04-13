@@ -7,7 +7,7 @@ Maven is necessary to build the j2objc libraries.
 brew install maven
 ```
 
-Delete -Werror from j2objc/make/common.mk and 
+Delete -Werror from j2objc/make/common.mk and scripts/j2objcc.sh
 
 After that is complete
 ```shell
